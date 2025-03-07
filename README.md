@@ -39,8 +39,7 @@ The model uses a simple CNN architecture:
 - **Data Augmentation**: Random horizontal flips and rotations to improve model robustness
 - **Class Imbalance Handling**: Custom weighting scheme for the underrepresented normal class
 - **Early Stopping**: Prevents overfitting by monitoring validation loss
-- **Transfer Learning**: (If implemented)
-- **Visualization**: Training curves and confusion matrices for model analysis
+- **Visualization**: Confusion matrices for model analysis
 
 ## Results
 
