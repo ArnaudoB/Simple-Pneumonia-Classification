@@ -12,6 +12,7 @@ The project uses [Kaggle's Chest X-Ray Images (Pneumonia) dataset](https://www.k
 
 ### Dataset structure:
 
+```bash
 data/chest_xray/
 ├── train/
 │   ├── NORMAL/
@@ -22,6 +23,7 @@ data/chest_xray/
 └── test/
     ├── NORMAL/
     └── PNEUMONIA/
+```
 
 ## Model Architecture
 
