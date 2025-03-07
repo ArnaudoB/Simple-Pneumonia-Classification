@@ -1,7 +1,6 @@
 # Pneumonia Detection from Chest X-Rays
 
-This project implements a Convolutional Neural Network (CNN) to classify chest X-ray images as either normal or showing pneumonia. The model serves as a computer-aided diagnosis tool to assist healthcare professionals in pneumonia screening.
-
+This project implements a Convolutional Neural Network (CNN) to classify chest X-ray images as either normal or showing pneumonia.
 ## Project Overview
 
 Pneumonia is a life-threatening inflammatory condition of the lung that can be detected through chest X-rays. Automating part of this detection process can help reduce workload for radiologists and potentially improve early diagnosis rates.
